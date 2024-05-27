@@ -31,3 +31,11 @@ Ce projet simule le déplacement de véhicules en utilisant des files MQTT pour 
 Ce script simule le déplacement d'un véhicule et publie sa position sur la file MQTT.
 ```bash
 python vehicle_script.py
+```
+### Lancer le script de l'upper-tester
+
+Ce script envoie des requêtes au véhicule pour obtenir sa position actuelle et l'horloge.
+```bash
+python upper_tester_script.py
+```
+
