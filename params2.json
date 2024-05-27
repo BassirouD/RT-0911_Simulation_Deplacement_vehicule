@@ -1,0 +1,13 @@
+{
+  "steps": [
+    {"speed": 5, "direction": 1},
+    {"speed": 0, "direction": 0},
+    {"speed": 30, "direction": 2},
+    {"speed": 5, "direction": -1},
+    {"speed": 100, "direction": 1},
+    {"speed": 20, "direction": 2},
+    {"speed": 5, "direction": 2},
+    {"speed": 40, "direction": -2},
+    {"speed": 5, "direction": 2}
+  ]
+}
