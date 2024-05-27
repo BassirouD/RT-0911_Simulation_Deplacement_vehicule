@@ -1,5 +1,8 @@
 # Projet de Simulation de Véhicules avec MQTT
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![MQTT Protocol](https://img.shields.io/badge/protocol-MQTT-green.svg)
+
 ## Description
 Ce projet simule le déplacement de véhicules en utilisant des files MQTT pour la communication. Chaque véhicule publie sa position sur une file MQTT et peut recevoir des requêtes pour sa position actuelle et son horloge. Un upper-tester est inclus pour tester le bon fonctionnement des boitiers de communication des véhicules.
 
